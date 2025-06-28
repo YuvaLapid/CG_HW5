@@ -17,3 +17,9 @@
 - All textures were created using ChatGPT (not some licensed site)
 
 ## Screenshots
+![Alt text](Screenshots/StartView.jpg)
+![Alt text](Screenshots/TopView.jpg)
+![Alt text](Screenshots/InsideCourtView.jpg)
+![Alt text](Screenshots/Court.jpg)
+![Alt text](Screenshots/BasketballCloseup.jpg)
+![Alt text](Screenshots/BasketballCentered.jpg)
