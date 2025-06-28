@@ -15,3 +15,5 @@
 - Run the server with: `node index.js`
 - Access at http://localhost:8000 in your web browser
 - All textures were created using ChatGPT (not some licensed site)
+
+## Screenshots
